@@ -326,7 +326,7 @@
 - [Vue JS: Simultaneously Running Express and Webpack Dev Server](https://medium.com/dailyjs/vue-js-simultaneously-running-express-and-webpack-dev-server-292f4a7ed7a3) on Medium by Henrik Fogelberg
 - [Vue JS 2 Tutorials](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gQcYgjhBoeQH7wiAyZNrYa) on Youtube by [The Net Ninja](https://www.thenetninja.co.uk)
 - [Add a headless CMS to VueJs in 5 Minutes](https://www.storyblok.com/tp/add-a-headless-CMS-to-vuejs-in-5-minutes)
-- [vue 架构中的 Watcher](https://github.com/dengwanc/dengwanc.github.io/issues/11) ![](https://img.shields.io/github/stars/dengwanc/dengwanc.github.io.svg?label=Stars&style=social?style=popout)
+- [vue 架构中的 Watcher](https://github.com/dengwanc/dengwanc.github.io/issues/11) ![](https://img.shields.io/github/stars/dengwanc/dengwanc.svg?label=Stars&style=social?style=popout)
 - [Building Your First App With Vue.js](http://tutorialzine.com/2016/08/building-your-first-app-with-vue-js/)
 - [5 Practical Examples For Learning Vue.js](http://tutorialzine.com/2016/03/5-practical-examples-for-learning-vue-js/)
 - [Migrating from KnockoutJS to VueJS](https://jes.al/2017/05/migrating-from-knockoutjs-to-vuejs/) by [@jesalg](https://twitter.com/jesalg)
@@ -475,7 +475,7 @@
 - [Storyblok vuejs-boilerplate](https://github.com/storyblok/vuejs-boilerplate) - Integrates Storyblok's Component System, allows to create editable Websites. ![](https://img.shields.io/github/stars/storyblok/vuejs-boilerplate.svg?label=Stars&style=social?style=popout)
 - [Vuexpresso](https://github.com/Ethaan/vuexpresso) - A boilerplate using VueX, Vue-Router, Vue-Apollo, webpack, GraphQL, Apollo-client, express and mongo ![](https://img.shields.io/github/stars/Ethaan/vuexpresso.svg?label=Stars&style=social?style=popout)
 - [Vue.js with Sails.js example project](https://github.com/ndabAP/vue-sails-example) - This project is for those who are new to single-page applications and want to learn through a real example. ![](https://img.shields.io/github/stars/ndabAP/vue-sails-example.svg?label=Stars&style=social?style=popout)
-- [**Vue.js & Pyramid web framework app**](https://github.com/eddyekofo94/pyramidVue.git) - A boilerplate using Pylons Pyramid webframework backend Vuejs webpack2, vue-router, yarn(packet manager) ![](https://img.shields.io/github/stars/eddyekofo94/pyramidVue.git.svg?label=Stars&style=social?style=popout)
+- [**Vue.js & Pyramid web framework app**](https://github.com/eddyekofo94/pyramidVue.git) - A boilerplate using Pylons Pyramid webframework backend Vuejs webpack2, vue-router, yarn(packet manager) ![](https://img.shields.io/github/stars/eddyekofo94/pyramidVue.svg?label=Stars&style=social?style=popout)
 - [vue-feathers-chat](https://github.com/ErickPetru/vue-feathers-chat) A sample realtime chat made with Vue in frontend and Feathers in backend, but using just Socket.IO-Client for the communication ![](https://img.shields.io/github/stars/ErickPetru/vue-feathers-chat.svg?label=Stars&style=social?style=popout)
 - [vue-xplan](https://github.com/JackGit/xplan/) A rotating earth demo page created with Vue and three.js ![](https://img.shields.io/github/stars/JackGit/xplan.svg?label=Stars&style=social?style=popout)
 - [**vueSocketChatRoom**](https://github.com/Chanran/vueSocketChatroom) A socket chat room using vue2.x,vuex2.x,vue-router2.x,vux2.x,socket.io ![](https://img.shields.io/github/stars/Chanran/vueSocketChatroom.svg?label=Stars&style=social?style=popout)
@@ -2350,7 +2350,7 @@ the amazing Vue.js.
 - [vue-ramda](https://github.com/choufeng/vue-ramda) - Vue Wrapper for [ramda](http://ramdajs.com/) ![](https://img.shields.io/github/stars/choufeng/vue-ramda.svg?label=Stars&style=social?style=popout)
 - [vue-router-user-roles](https://github.com/anthonygore/vue-router-user-roles) - Protects routes based on user roles. Add your own authentication. ![](https://img.shields.io/github/stars/anthonygore/vue-router-user-roles.svg?label=Stars&style=social?style=popout)
 - [vue-messenger](https://github.com/fjc0k/vue-messenger) - A series of useful enhancements to Vue component props: Transform, Enum-type, Numeric-type, Two-way data bindings. ![](https://img.shields.io/github/stars/fjc0k/vue-messenger.svg?label=Stars&style=social?style=popout)
-- [vue-uuid-v4](https://github.com/estudioliver/vue-uuid.git) - Plugin Vue2 to easy get UUIDv4 ![](https://img.shields.io/github/stars/estudioliver/vue-uuid.git.svg?label=Stars&style=social?style=popout)
+- [vue-uuid-v4](https://github.com/estudioliver/vue-uuid.git) - Plugin Vue2 to easy get UUIDv4 ![](https://img.shields.io/github/stars/estudioliver/vue-uuid.svg?label=Stars&style=social?style=popout)
 - [vue-async-operations](https://github.com/devstark-com/vue-async-operations) - Managing async operations statuses in your Vue components ![](https://img.shields.io/github/stars/devstark-com/vue-async-operations.svg?label=Stars&style=social?style=popout)
 
 ### Web Workers
@@ -2410,7 +2410,7 @@ Payment utilities.
  - [vue-grecaptcha](https://github.com/drozdzynski/vue-grecaptcha) - Google reCAPTCHA for VueJS 2 ![](https://img.shields.io/github/stars/drozdzynski/vue-grecaptcha.svg?label=Stars&style=social?style=popout)
  - [vue-recaptcha](https://github.com/DanSnow/vue-recaptcha) - Google reCAPTCHA component for Vue.js ![](https://img.shields.io/github/stars/DanSnow/vue-recaptcha.svg?label=Stars&style=social?style=popout)
  - [require-vuejs](https://github.com/edgardleal/require-vuejs) - RequireJS plugin to async and dynamic load and parse .vue components. ![](https://img.shields.io/github/stars/edgardleal/require-vuejs.svg?label=Stars&style=social?style=popout)
- - [facebook-login-vuejs](https://github.com/iliran11/facebook-login-vue.git) - Vue Component for Authenticating your Facebook App and get the benefits of Facebook Login. ![](https://img.shields.io/github/stars/iliran11/facebook-login-vue.git.svg?label=Stars&style=social?style=popout)
+ - [facebook-login-vuejs](https://github.com/iliran11/facebook-login-vue.git) - Vue Component for Authenticating your Facebook App and get the benefits of Facebook Login. ![](https://img.shields.io/github/stars/iliran11/facebook-login-vue.svg?label=Stars&style=social?style=popout)
  - [vuejs/vuefire](https://github.com/vuejs/vuefire) - Official Firebase Integration for VueJS ![](https://img.shields.io/github/stars/vuejs/vuefire.svg?label=Stars&style=social?style=popout)
  - [vuefire](https://github.com/nigeltiany/vuefire) - Firebase for VueJS and Vuex ![](https://img.shields.io/github/stars/nigeltiany/vuefire.svg?label=Stars&style=social?style=popout)
  - [vue-runkit](https://github.com/maple3142/vue-runkit) - RunKit Embed for Vue.js ![](https://img.shields.io/github/stars/maple3142/vue-runkit.svg?label=Stars&style=social?style=popout)
