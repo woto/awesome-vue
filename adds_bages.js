@@ -14,7 +14,7 @@ const readline = require('readline');
   outfile = await fsPromises.open("OUTPUT.md", "w");
 
   for await (const line of rl) {
-    let m = line.match(/https:\/\/github.com\/(\S+?)\/(\S+?)[\/)]/);
+    let m = line.match(/https:\/\/github.com\/(\S+?)\/(\S+?)(\/|\)|\.git)/);
     let bage;
 
     if (m && m[1] && m[2]) {
